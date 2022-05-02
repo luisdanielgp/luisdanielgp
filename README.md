@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Luis Daniel</h1>
+<h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisdanielgp&label=Profile%20views&color=0e75b6&style=flat" alt="luisdanielgp" /> </p>
 
-- 🔨 I’m currently building at [Koibanx](https://www.koibanx.com/)
+- 🔨 I’m currently building DeFi products
 
-- 🌱 I’m currently learning **Tech Leadership, DeFi**
+- 🌱 I’m currently learning **Tech Leadership**
 
 - 📚 I’m currently writing educational content for [LatAm Blockchain Society](https://github.com/latam-blockchain-society)
 
