@@ -1,6 +1,9 @@
-# 💫 Hi 👋, I'm Luis
-## A human from Mexico
-🔨 I’m currently building [Kondor Finance](https://kondor.finance)<br>🌱 I’m currently learning **Tech Leadership**<br>📚 I like to share knowledge on [my website](https://decentraluis.super.site/)<br>🤝 I’m looking for help with [LatAm Blockchain Society](https://github.com/latam-blockchain-society)<br>💬 Ask me about **Blockchain and Crypto**<br>😄 Pronouns: He/Him<br>⚡ Fun fact **I turn 🌮 into code**
+# 💫 Hi 👋, I'm Luis 🇲🇽
+🔨 I’m currently building the [Zky Wallet](https://twitter.com/zkywallet) 🟠 <br>
+📚 I like to share knowledge on [my website](https://decentraluis.super.site/)<br>
+💬 Ask me about **Bitcoin, Blockchain and Crypto in general**<br>
+😄 Pronouns: He/Him<br>
+⚡ **I turn 🌮 into code**
 
 
 ## 🌐 Socials:
